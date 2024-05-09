@@ -14,7 +14,7 @@ REFERÊCIAS USADAS NA DOCUMENTAÇÃO DESTE REPOSITÓRIO (NÃO DELETAR ESTA SEÇ�
 
 <!-- CABEÇALHO -->
 <div align="center">
-  <img src="https://github.com/axemdev/AxemDev-Library/assets/76459155/e51895b5-de20-4300-8986-e33dd28b710f" alt="imagemLogoTitulo" width="124px" title="Repositório da AxemDev Library">
+  <img src="https://i.ibb.co/wQ1Td1x/logox2-removebg.png" alt="imagemLogoTitulo" width="124px" title="Repositório da AxemDev Library">
   <h2 align="center">AxemDev Library</h2>
 </div>
 
