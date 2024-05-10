@@ -1,6 +1,11 @@
-import app from "../frameworks/app";
-import { getAllCourses } from "../useCases/getAllCoursesUseCase";
+import express from "express";
+import { getAllCourses } from "../useCases/getAllCoursesUseCase.js";
+import { connectDatabase } from "../frameworks/database/config.js";
+const router = express.Router();
 
-app.get("/", (req, res) => {
-  return res.send("hello");
+router.get("/allcourses", (req, res) => {
+  connectDatabase();
+  res.json(getAllCourses());
 });
+
+export { router };
