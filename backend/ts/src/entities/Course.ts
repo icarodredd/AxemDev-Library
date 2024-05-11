@@ -2,6 +2,7 @@ export class Course {
   private id: String;
   private name: String;
   private description: String;
+  private img: String;
   private link: String;
   private expired: Boolean;
 
@@ -10,13 +11,19 @@ export class Course {
     name: String,
     description: String,
     link: String,
-    expired: Boolean
+    expired: Boolean,
+    img: String
   ) {
     this.id = id;
     this.name = name;
     this.description = description;
     this.link = link;
     this.expired = expired;
+    this.img = img;
+  }
+
+  getImg() {
+    return this.img;
   }
 
   getId() {
