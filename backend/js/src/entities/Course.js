@@ -1,4 +1,10 @@
 export class Course {
+    id;
+    name;
+    description;
+    img;
+    link;
+    expired;
     constructor(id, name, description, link, expired, img) {
         this.id = id;
         this.name = name;
