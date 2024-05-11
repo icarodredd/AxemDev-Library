@@ -4,19 +4,18 @@ dotenv.config();
 const uri = process.env.DATABASE_URI;
 const client = new MongoClient(uri);
 const connectDatabase = async () => {
-    console.log(uri);
     try {
-        const con = await client.connect();
+        await client.connect();
         console.log("Database connected!");
-        console.log(con);
+        return client;
     }
     catch (error) {
         console.log(error);
     }
 };
-const disconnectDatabase = async (con) => {
+const disconnectDatabase = async () => {
     try {
-        con.close();
+        client.close();
         console.log("Database disconnected!");
     }
     catch (error) {
