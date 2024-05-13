@@ -27,7 +27,7 @@ REFERÊCIAS USADAS NA DOCUMENTAÇÃO DESTE REPOSITÓRIO (NÃO DELETAR ESTA SEÇ�
     <img src="https://custom-icon-badges.demolab.com/github/watchers/axemdev/AxemDev-Library?logo=eye&style=social&logoColor=black" alt="watchersBadge">
   <br>
     <img src="https://custom-icon-badges.demolab.com/github/issues-raw/axemdev/AxemDev-Library?logo=issue" alt="issuesBadge">
-    <img src="https://custom-icon-badges.demolab.com/github/license/axemdev/AxemDev-Library?logo=law" alt="licenseBadge">
+    <img src="https://custom-icon-badges.demolab.com/github/license/axemdev/AxemDev-Library" alt="licenseBadge">
     <img src="https://custom-icon-badges.demolab.com/github/actions/workflow/status/axemdev/AxemDev-Library/ci.yml?branch=main&logo=check-circle-fill&logoColor=white" alt="workflowStatusBadge">
     <img src="https://custom-icon-badges.demolab.com/github/last-commit/axemdev/AxemDev-Library?logo=history&logoColor=white" alt="lastCommitBadge">
   </p>
@@ -182,10 +182,7 @@ Para mais informações sobre os padrões do commit do <b>Conventional Commits</
 
 <!-- LICENÇA -->
 <h2>Licença</h2>
-<p>Este repositório está sob a licença <b>{insira a licença do repo aqui}</b>, enquanto a aplicação do site está sob a licença <b>{insira a licença do site aqui}</b>.</p>
-
-<p>Para mais informações sobre a licença deste repositório, consulte o arquivo <a href="https://linkdoLICENSEaqui">LICENSE</a>.</p>
-<p>E para mais informações sobre a licença da aplicação do site, consulte <a href="https://linkdalicençaaqui">{insira as info. de licença do site aqui}</a>.</p>
+<p>Este repositório está sob a licença <b><a href="https://www.gnu.org/licenses/gpl-3.0.html">LICENSE<a/></b>.</p>
 
 <div align="left">
   <h6><a href="#axemdev-library"> Voltar para o início ↺</a></h6>
