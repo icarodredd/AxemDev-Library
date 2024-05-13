@@ -7,6 +7,10 @@ export default {
       grayaxem: "#232D3F",
       darkgreenaxem: "#005B41",
       lightgreenaxem: "#008170",
+      white: "#ffffff",
+    },
+    fontFamily: {
+      axem: ["Montserrat", "system-ui"],
     },
     extend: {},
   },
