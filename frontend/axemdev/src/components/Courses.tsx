@@ -31,7 +31,7 @@ export default function Courses() {
             </p>
             <div className="flex justify-center">
               <button className="rounded-full text-darkaxem bg-gradient-to-b from-darkgreenaxem to-lightgreenaxem w-32 h-10 text-xs font-axem font-bold max-sm:w-20 p-1">
-                SOBRE NÓS
+                INSCREVER-SE
               </button>
             </div>
           </div>
@@ -55,7 +55,7 @@ export default function Courses() {
             </p>
             <div className="flex justify-center">
               <button className="rounded-full text-darkaxem bg-gradient-to-b from-darkgreenaxem to-lightgreenaxem w-32 h-10 text-xs font-axem font-bold max-sm:w-20 p-1">
-                SOBRE NÓS
+                INSCREVER-SE
               </button>
             </div>
           </div>
@@ -79,7 +79,7 @@ export default function Courses() {
             </p>
             <div className="flex justify-center">
               <button className="rounded-full text-darkaxem bg-gradient-to-b from-darkgreenaxem to-lightgreenaxem w-32 h-10 text-xs font-axem font-bold max-sm:w-20 p-1">
-                SOBRE NÓS
+                INSCREVER-SE
               </button>
             </div>
           </div>
@@ -103,7 +103,7 @@ export default function Courses() {
             </p>
             <div className="flex justify-center">
               <button className="rounded-full text-darkaxem bg-gradient-to-b from-darkgreenaxem to-lightgreenaxem w-32 h-10 text-xs font-axem font-bold max-sm:w-20 p-1">
-                SOBRE NÓS
+                INSCREVER-SE
               </button>
             </div>
           </div>
