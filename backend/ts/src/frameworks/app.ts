@@ -3,8 +3,12 @@ import { router } from "../controllers/courseController.js";
 import cors from "cors";
 
 const app = express();
-
-app.use(cors({ origin: true }));
+const corsOptions = {
+  origin: "*",
+  credentials: true,
+  optionSuccessStatus: 200,
+};
+app.use(cors(corsOptions));
 
 app.use(express.json());
 app.use("/courses", router);
